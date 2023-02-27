@@ -15,7 +15,10 @@ Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/bookmyshow-api.git
+git clone git@github.com:dydesai/BookMyShow.git
+Refer branch master
+https://github.com/dydesai/BookMyShow/tree/master
+
 
 Build the project using Maven:
 cd bookmyshow
